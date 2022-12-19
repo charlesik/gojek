@@ -16,7 +16,7 @@ export default function Prod() {
        View all products
       </button>
     </div>
-    <div className='mt-20 justify-center hidden lg:flex '>
+    <div className='mt-20 justify-center  lg:flex '>
    
     <div className="bg-green-400 h-72 w-52  rounded-3xl transform -rotate-12 bg-prod bg-blend-overlay mx-3 ">
          <img src="prod2.svg" alt="" className='m-5 h-6 '/>
