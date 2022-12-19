@@ -17,7 +17,7 @@ export default function Navbar() {
         </svg></div>
         <div>
     <Link to={'/'}><a href="" className='mr-5 font-bold '>Home</a></Link>
-    <Link to={'products'}><a href="" className='mr-5 font-bold '>Products</a></Link>
+    <Link to={'/products'}><a href="" className='mr-5 font-bold '>Products</a></Link>
     </div>
 
    </nav></div>
