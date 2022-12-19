@@ -2,6 +2,7 @@ import React from 'react'
 
 export default function Loyalty() {
   return (
+    <div>
     <div className='lg:flex text-white bg-dark-blue justify-center '>
         <img src="loyalty.svg" alt="" />
         <div className='lg:w-1/3 lg:pl-10 pt-10 '>
@@ -11,6 +12,7 @@ export default function Loyalty() {
        View More!
       </button>
         </div>
+    </div>
     </div>
   )
 }
