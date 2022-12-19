@@ -4,7 +4,7 @@ export default function Prod() {
 
   return (
     <div>
-    <div className="bg-dar-blue sm:h-80 lg:h-1k  ">
+    <div className="bg-dar-blue  lg:h-1k  ">
     <div className="text-center pt-40 ">
       <p className="text-white lg:text-6xl text-3xl font-bold">We build products</p>
       <p className="text-white lg:text-6xl text-3xl font-bold">
